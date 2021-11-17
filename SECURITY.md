@@ -1,5 +1,5 @@
 # Security Policy
-
+---
 ## Supported Versions
 
 At the moment Oh My Zsh only considers the very latest commit to be supported.
