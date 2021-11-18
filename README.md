@@ -324,7 +324,7 @@ We have [stickers, shirts, and coffee mugs available](https://shop.planetargon.c
 ## License
 
 Oh My Zsh is released under the [MIT license](LICENSE.txt).
-
+---
 ## About Planet Argon
 
 ![Planet Argon](https://pa-github-assets.s3.amazonaws.com/PARGON_logo_digital_COL-small.jpg)
